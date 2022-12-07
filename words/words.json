@@ -342,24 +342,6 @@
   "wordTranslate": "вино"
 },{
   "_id": {
-    "$oid": "5e9f5ee35eb9e72bc21af4b4"
-  },
-  "group": 0,
-  "page": 1,
-  "word": "adventure",
-  "image": "files/02_0021.jpg",
-  "audio": "files/02_0021.mp3",
-  "audioMeaning": "files/02_0021_meaning.mp3",
-  "audioExample": "files/02_0021_example.mp3",
-  "textMeaning": "An <i>adventure</i> is a fun or exciting thing that you do.",
-  "textExample": "Riding in the rough water was an <b>adventure</b>.",
-  "transcription": "[ədvéntʃər]",
-  "__v": 0,
-  "textExampleTranslate": "Езда в бурной воде была приключением",
-  "textMeaningTranslate": "Приключение - это забавная или захватывающая вещь, которую ты делаешь",
-  "wordTranslate": "приключение"
-},{
-  "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4b3"
   },
   "group": 0,
@@ -376,6 +358,24 @@
   "textExampleTranslate": "Что ты делаешь на следующей неделе?",
   "textMeaningTranslate": "Неделя - это период времени, который длится семь дней",
   "wordTranslate": "неделя"
+},{
+  "_id": {
+    "$oid": "5e9f5ee35eb9e72bc21af4b4"
+  },
+  "group": 0,
+  "page": 1,
+  "word": "adventure",
+  "image": "files/02_0021.jpg",
+  "audio": "files/02_0021.mp3",
+  "audioMeaning": "files/02_0021_meaning.mp3",
+  "audioExample": "files/02_0021_example.mp3",
+  "textMeaning": "An <i>adventure</i> is a fun or exciting thing that you do.",
+  "textExample": "Riding in the rough water was an <b>adventure</b>.",
+  "transcription": "[ədvéntʃər]",
+  "__v": 0,
+  "textExampleTranslate": "Езда в бурной воде была приключением",
+  "textMeaningTranslate": "Приключение - это забавная или захватывающая вещь, которую ты делаешь",
+  "wordTranslate": "приключение"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4b5"
